@@ -3,7 +3,7 @@
 markdown是一门超文本语言，今天我第一次学习了它。
 **HELLO MARKDOWN
 接下来我还会学习：
- GIT的基础命令
- HEXO框架
- HEXO更换主题
+* GIT的基础命令
+* HEXO框架
+* HEXO更换主题
  ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif）
